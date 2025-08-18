@@ -1,2 +1,4 @@
 # CdcBankingApp
-Repo for hosting codes related to banking app.
+<p>
+  Repo for understanding
+</p>
